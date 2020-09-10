@@ -9,3 +9,6 @@ Features of the app include:
 -Variable canvas size
 -Customizable color selection (via the data/ColorButtons.dat file)
 -Multiple brush types
+
+### Demo Video
+[![PaintApp Demo](http://img.youtube.com/vi/3NkpSiMHmqs/0.jpg)](https://www.youtube.com/watch?v=3NkpSiMHmqs "PaintApp Demo")
